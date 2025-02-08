@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, je suis Cynwal</h1>
 <h3 align="center">Un étudiant en informatique à EPITECH Lille. Je suis un développeur Web Full Stack et Lua.J’ai notamment développé des serveurs de jeu sur FiveM ainsi que des sites associés.</h3>
 
-- 📝 J'ai développé mon propre portfolio avec Tailwind : [https://cynwal-bureau.fr/](https://cynwal-bureau.fr/)
+- 📝 J'ai aussi développé mon propre portfolio en Next.JS : [https://cynwal-bureau.fr/](https://cynwal-bureau.fr/)
 
 <h3 align="left">Mes liens :</h3>
 <p align="left">
